@@ -19,3 +19,12 @@ Hands on Large Language Models
     feed the data to LLM model,
     generate movie review classification,
     evaluate performance
+
+4. In this Chapter, we implement language models to perform text clustering on ArXiV research paper abstracts. 
+
+We use a combination of:
+
+(1) Sentence Transformer for embedding documents
+(2) Using UMAP for dimensionality reduction
+(3) Clustering the reducing embeddings using HDBScan
+(4) Inspecting the clusters.
