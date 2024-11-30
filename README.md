@@ -28,3 +28,7 @@ We use a combination of:
 (2) Using UMAP for dimensionality reduction
 (3) Clustering the reducing embeddings using HDBScan
 (4) Inspecting the clusters.
+
+5. In this lecture, we use ChatGPT API to perform the task of movie review classification.
+
+We use a ChatGPT(GPT 3.5-turbo-0125 paid model
