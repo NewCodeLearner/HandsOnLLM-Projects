@@ -32,3 +32,19 @@ We use a combination of:
 5. In this lecture, we use ChatGPT API to perform the task of movie review classification.
 
 We use a ChatGPT(GPT 3.5-turbo-0125 paid model
+
+6. BERTopic: A Modular Topic Modelling Framework.
+
+7. Prompt Engineering
+
+8. Advanced Text Generation Techniques.
+
+9. First LLM agent using Langchain.
+
+10. Semantic Search using RAG(Retrieval Augmented Generation)
+
+11. Multimodal Large Laguage Models
+
+12. Finetuning BERT Model
+
+13. Creating Text Embedding Model 
